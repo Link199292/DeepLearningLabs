@@ -8,6 +8,7 @@
 
 4. [Lab2](Lab2.ipynb): Re-running the MLP implemented in Lab1_MLP, comparing perfromances in centered vs. translated images.
 
+5. [Lab2_CNN](LAB2_CNN.ipynb): Implementing a LeNet5 CNN, comparing performances in centered vs. translated images.
 
 
 -----------
