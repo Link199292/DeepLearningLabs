@@ -12,7 +12,13 @@
 
 2.3 [Lab2_CNN_CIFAR](LAB2_CNN_CIFAR.ipynb): Applying LeNet5 to Cifar-10. Changing the network's architecture to reach better results.
 
-3.1 [Lab3](Lab3.ipynb): Transfer Learning with fine-tuning
+3.1 [Lab3](Lab3.ipynb): Transfer Learning with fine-tuning.
+
+3.2 [Lab3_UnsupervisedDomainAdaptation](Lab3_UnsupervisedDomainAdaptation.ipynb): Unsupervised Domain Adaptation with Domain-Alignment Layers.
+
+3.3 [Lab3_DIALNet_revised](Lab3_DIALNet_revised.ipynb): refactoring DIALNet code with dedicated classes for domain-alignment layers.
+
+3.4 [Lab3_DA(CIFAR10-STL10)](Lab3_DA(CIFAR10-STL10).ipynb): domain adaptation between CIFAR10 and STL10 datasets.
 
 -----------
 
