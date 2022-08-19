@@ -10,6 +10,7 @@
 
 2.2 [Lab2_CNN](LAB2_CNN.ipynb): Implementing a LeNet5 CNN, comparing performances in centered vs. translated images.
 
+2.3 [Lab2_CNN_CIFAR](LAB2_CNN_CIFAR.ipynb): Applying LeNet5 to Cifar-10. Changing the network's architecture to reach better results.
 
 -----------
 
