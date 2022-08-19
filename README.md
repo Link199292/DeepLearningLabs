@@ -18,7 +18,7 @@
 
 3.3 [Lab3_DIALNet_revised](Lab3_DIALNet_revised.ipynb): refactoring DIALNet code with dedicated classes for domain-alignment layers.
 
-3.4 [Lab3_DA(CIFAR10-STL10)](Lab3_DA(CIFAR10-STL10).ipynb): domain adaptation between CIFAR10 and STL10 datasets.
+3.4 [Lab3_DA(CIFAR10_STL10)](Lab3_DA(CIFAR10_STL10).ipynb): domain adaptation between CIFAR10 and STL10 datasets.
 
 -----------
 
