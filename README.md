@@ -12,6 +12,8 @@
 
 2.3 [Lab2_CNN_CIFAR](LAB2_CNN_CIFAR.ipynb): Applying LeNet5 to Cifar-10. Changing the network's architecture to reach better results.
 
+3.1 [Lab3](Lab3.ipynb): Transfer Learning with fine-tuning
+
 -----------
 
 Some .ipynb files contains LaTEX formatting errors. You should be able to solve this by opening them through Google Colab.
