@@ -20,6 +20,9 @@
 
 3.4 [Lab3_DA(CIFAR10_STL10)](Lab3_DA(CIFAR10_STL10).ipynb): domain adaptation between CIFAR10 and STL10 datasets.
 
+4.1 [Lab4](Lab4.ipynb): Recurrent Neural Networks and implementation of a surname's origin classifier.
+
+
 -----------
 
 Some .ipynb files contains LaTEX formatting errors. You should be able to solve this by opening them through Google Colab.
